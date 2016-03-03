@@ -43,6 +43,11 @@ Content:
 
 From [Republic Act no. 5446](http://www.gov.ph/1968/09/18/republic-act-no-5446/) 
 
+### kalayaan.json
+
+Boundaries of Kalayaan according to [PRESIDENTIAL DECREE NO. 1596](http://www.chanrobles.com/presidentialdecrees/presidentialdecreeno1596.html#.VtgQFEIo_ef)
+
+
 
 
 
