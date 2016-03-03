@@ -27,12 +27,19 @@ Extractions from OpenStreetMap of:
 * *seamarks*
 
 Content: 
+
 | name          | aeroway | building | highway | seamark |
+
 |---------------|---------|----------|---------|---------|
+
 | Loaita        |         | 2        |         |         |
+
 | Nanshan       |         | 4        | 6       |         |
+
 | Northeast Cay |         | 1        | 4       |         |
+
 | Thitu         | 2       | 14       | 5       | 1       |
+
 | West york     |         | 1        |         |         |
 
  
