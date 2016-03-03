@@ -36,6 +36,13 @@ Content:
 | Thitu         | 2       | 14       | 5       | 1       |
 | West york     |         | 1        |         |         |
 
- 
+### Baselines of the territorial sea of the Philippines
+
+* territorial-ph-points.json
+* territorial-ph-polygons.json
+
+From [Republic Act no. 5446](http://www.gov.ph/1968/09/18/republic-act-no-5446/) 
+
+
 
 
